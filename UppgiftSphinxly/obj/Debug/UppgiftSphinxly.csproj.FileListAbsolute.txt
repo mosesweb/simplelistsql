@@ -1,0 +1,21 @@
+c:\users\moses_000\documents\visual studio 2015\Projects\UppgiftSphinxly\UppgiftSphinxly\bin\Debug\UppgiftSphinxly.exe.config
+c:\users\moses_000\documents\visual studio 2015\Projects\UppgiftSphinxly\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.csprojResolveAssemblyReference.cache
+c:\users\moses_000\documents\visual studio 2015\Projects\UppgiftSphinxly\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.Properties.Resources.resources
+c:\users\moses_000\documents\visual studio 2015\Projects\UppgiftSphinxly\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.csproj.GenerateResource.Cache
+c:\users\moses_000\documents\visual studio 2015\Projects\UppgiftSphinxly\UppgiftSphinxly\bin\Debug\UppgiftSphinxly.exe
+c:\users\moses_000\documents\visual studio 2015\Projects\UppgiftSphinxly\UppgiftSphinxly\bin\Debug\UppgiftSphinxly.pdb
+c:\users\moses_000\documents\visual studio 2015\Projects\UppgiftSphinxly\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.exe
+c:\users\moses_000\documents\visual studio 2015\Projects\UppgiftSphinxly\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.pdb
+C:\Users\moses_000\Documents\Visual Studio 2015\Projects\UppgiftSphinxly\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.ProduktkatalogForm.resources
+C:\Users\moses_000\Desktop\rograasdadsa\UppgiftSphinxly\bin\Debug\UppgiftSphinxly.exe.config
+C:\Users\moses_000\Desktop\rograasdadsa\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.exe
+C:\Users\moses_000\Desktop\rograasdadsa\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.pdb
+C:\Users\moses_000\Desktop\rograasdadsa\UppgiftSphinxly\bin\Debug\UppgiftSphinxly.exe
+C:\Users\moses_000\Desktop\rograasdadsa\UppgiftSphinxly\bin\Debug\UppgiftSphinxly.pdb
+C:\Users\moses_000\Desktop\rograasdadsa\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.csprojResolveAssemblyReference.cache
+C:\Users\moses_000\Desktop\rograasdadsa\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.ProduktkatalogForm.resources
+C:\Users\moses_000\Desktop\rograasdadsa\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.Properties.Resources.resources
+C:\Users\moses_000\Desktop\rograasdadsa\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.csproj.GenerateResource.Cache
+C:\Users\moses_000\Source\Repos\simplelistsql\UppgiftSphinxly\bin\Debug\UppgiftSphinxly.exe.config
+C:\Users\moses_000\Source\Repos\simplelistsql\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.exe
+C:\Users\moses_000\Source\Repos\simplelistsql\UppgiftSphinxly\obj\Debug\UppgiftSphinxly.pdb
