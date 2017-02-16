@@ -1,7 +1,7 @@
 # simplelistsql
 
 Simple list of items in a list were you can delete items. Made in C# Forms. 
-
+```
 SQL:
 
 CREATE TABLE [dbo].[Articles] (
@@ -12,3 +12,4 @@ CREATE TABLE [dbo].[Articles] (
     PRIMARY KEY CLUSTERED ([Id] ASC)
 );
 
+```
